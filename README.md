@@ -1,4 +1,4 @@
-# Protein-Function-Prediction-Using-Deep-Neural-Networks
+# Protein function prediction using deep neural networks
 
 Introduction
 
